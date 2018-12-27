@@ -1,5 +1,5 @@
 ---
-title: first
+title: 1주차 
 ---
 
 [1주차 Reflection] Design Thinking 방법론
