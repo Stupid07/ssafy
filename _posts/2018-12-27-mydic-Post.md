@@ -1,6 +1,7 @@
 ---
 title: mydic
 ---
+
 # I. 스펙(Specification)
 
 구현된 어플리케이션의 주요 기능
