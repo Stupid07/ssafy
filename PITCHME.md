@@ -41,6 +41,7 @@
 별명: ADHD
 성격: 신남  
 연말 계획 : 로스트아크
+![ss](https://user-images.githubusercontent.com/20718935/50471181-dd3edc80-09f6-11e9-971a-621cbda586d6.jpg)
 
 ---
 http://www.naver.com
