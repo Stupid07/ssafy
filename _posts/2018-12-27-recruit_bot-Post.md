@@ -1,3 +1,7 @@
+---
+title: recruit_bot
+---
+
 SSAFY Start Camp 챗봇 퀘스트
 ============================
 
