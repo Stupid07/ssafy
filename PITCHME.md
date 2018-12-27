@@ -6,7 +6,8 @@
 별명: 게으른바보  
 성격: 나태하고 게으름
 연말 계획 : 게임
-사진 : ![image](https://user-images.githubusercontent.com/35564566/50471490-42470200-09f8-11e9-9bc9-e1f18fbf1167.png)
+
+![image](https://user-images.githubusercontent.com/35564566/50471525-64408480-09f8-11e9-80e8-2f7bc40c83e7.png)
 
 
 
@@ -46,5 +47,3 @@
 연말 계획 : 로스트아크
 ![ss](https://user-images.githubusercontent.com/20718935/50471181-dd3edc80-09f6-11e9-971a-621cbda586d6.jpg)
 
----
-http://www.naver.com
