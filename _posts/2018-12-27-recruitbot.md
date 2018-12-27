@@ -5,7 +5,7 @@ title: recruitbot
 SSAFY Start Camp 챗봇 퀘스트
 ============================
 
-###서울_7_강제균,이종연 https://github.com/Stupid07/ssafy_chatbot
+### 서울_7_강제균,이종연 https://github.com/Stupid07/ssafy_chatbot
 
 I. 스펙(Specification)
 ----------------------
