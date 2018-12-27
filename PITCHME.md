@@ -37,10 +37,10 @@
 ![image](https://user-images.githubusercontent.com/35564566/50471274-3a3a9280-09f7-11e9-9218-e192ba25b2e9.png)
 
 ---
-# 팀원
-별명: ㅁㅁ  
-성격: ㅁㅁ  
-연말 계획 :
+# 팀원 신혜리
+별명: ADHD
+성격: 신남  
+연말 계획 : 로스트아크
 
 ---
 http://www.naver.com
