@@ -10,11 +10,13 @@
 
 
 ---
-# 팀원
-별명: ㅁㅁ  
-성격: ㅁㅁ  
-연말 계획 :
-![image](https://user-images.githubusercontent.com/35564566/50471005-38bc9a80-09f6-11e9-8845-63bb2543f139.png)
+# 팀원 이상호
+별명: 루겁
+성격: 걱정이 많음
+연말 계획 : 신년 계획 짜기
+
+![kakaotalk_20181227_164647751](https://user-images.githubusercontent.com/32154594/50471280-432b6400-09f7-11e9-9571-f5c317769cf8.jpg)
+
 
 ---
 # 팀원 김동현
